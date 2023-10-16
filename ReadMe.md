@@ -1,0 +1,5 @@
+# Installaiton:
+Anaconda 
+Vs Code
+
+# 
